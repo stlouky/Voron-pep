@@ -2,6 +2,6 @@
 moj vor-pep
 
 ## odkazy na zajimavý git z configy
-[https://github.com/jpapiez]
-[https://github.com/zellneralex/klipper_config]
+[https://github.com/jpapiez]  
+[https://github.com/zellneralex/klipper_config]  
 
