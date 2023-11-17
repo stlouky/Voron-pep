@@ -8,3 +8,5 @@ https://github.com/garethky/klipper-voron2.4-config
 https://github.com/richardjm/voronpi-klipper-backup  
 https://github.com/hartk1213  
 https://github.com/EricZimmerman/Voron24/tree/master  
+
+https://github.com/maz0r/klipper_canbus/tree/main  
